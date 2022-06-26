@@ -1,0 +1,22 @@
+.custom-search-box .button, .custom-search-box .text-input {
+    -fx-border-width: 1px;
+    -fx-border-color: #353535;
+    -fx-pref-height: 30px;
+}
+
+.custom-search-box .text-input{
+    -fx-border-radius: 3px 0px 0px 3px;
+}
+
+.custom-search-box .button {
+    -fx-border-radius: 0px 3px 3px 0px;
+    -fx-background-color: #add8e6;
+    -fx-text-fill: #353535;
+    -fx-font-weight: bold;
+}
+
+.custom-search-box .button:hover {
+    -fx-cursor: hand;
+    -fx-background-color: #3f51b5;
+}
+

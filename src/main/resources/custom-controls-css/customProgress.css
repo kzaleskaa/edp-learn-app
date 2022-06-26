@@ -1,0 +1,3 @@
+.progress-indicator:indeterminate .segment {
+    -fx-background-color: white;
+}
